@@ -1,0 +1,12 @@
+{
+  "name": "Tinner",
+  "version": "1.0.0",
+  "description": "Frontend gulp workflow",
+  "main": "_tasks/index.js",
+  "bin": {
+    "tinner": "bin/tinner.js"  
+  },
+  "repository": "https://github.com/webfrontzhifei/Tinner.git",
+  "author": "webfrontzhifei <906831852@qq.com>",
+  "license": "MIT"
+}
